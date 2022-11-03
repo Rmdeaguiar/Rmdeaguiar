@@ -15,5 +15,5 @@ Meu nome é Rafael, tenho 30 anos e sou desenvolvedor Full-Stack!
 
 ### 🧐 Para me encontrar:
 
-rafael.aguiar91@gmail.com
+#### rafael.aguiar91@gmail.com
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-maguiar/)
