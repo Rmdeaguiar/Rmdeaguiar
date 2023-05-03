@@ -1,8 +1,10 @@
 ## Olá! 
 
-Meu nome é Rafael, tenho 31 anos e sou desenvolvedor Full-Stack! Sou de Salvador/BA, apaixonado por esportes e por aprender algo novo a cada dia!
+Baiano, apaixonado por esportes e desenvolvedor. Acredito que a tecnologia é a principal ponte para transformar, melhorar e tornar mais simples a vida das pessoas e da sociedade.
 
-Atualmente estou em transição de carreira para área de tecnologia, uma área que aprendi a amar. Poder estar em constante aprendizado, enfrentando desafios e solucionando problemas é o que me move.
+Empatia, espirito colaborativo, resiliência, busca por estar sempre aprendendo e me desafiando são características que considero muito importantes. Tenho como objetivo estar em um ambiente onde possa me desenvolver e solucionar problemas a cada dia.
+
+Certificado pelo curso de Desenvolvimento de Software FullStack da Cubos Academy, onde foram abordadas as tecnologias HTML, CSS, React Js, JavaScript, Node Js, PostgreSQL. E também, a metodologia ágil Scrum sendo aplicada.
 
 ### 💻 Hard Skills: 
 
