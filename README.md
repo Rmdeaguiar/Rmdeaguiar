@@ -1,6 +1,6 @@
 ## Olá! 
 
-Baiano, apaixonado por esportes e desenvolvedor. Acredito que a tecnologia é a principal ponte para transformar, melhorar e tornar mais simples a vida das pessoas e da sociedade.
+Meu nome é Rafael! Sou baiano, apaixonado por esportes e desenvolvedor. Acredito que a tecnologia é a principal ponte para transformar, melhorar e tornar mais simples a vida das pessoas e da sociedade.
 
 Empatia, espirito colaborativo, resiliência, busca por estar sempre aprendendo e me desafiando são características que considero muito importantes. Tenho como objetivo estar em um ambiente onde possa me desenvolver e solucionar problemas a cada dia.
 
