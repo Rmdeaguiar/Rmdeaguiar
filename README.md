@@ -2,9 +2,13 @@
 
 Meu nome é Rafael! Sou baiano, apaixonado por esportes e desenvolvedor. Acredito que a tecnologia é a principal ponte para transformar, melhorar e tornar mais simples a vida das pessoas e da sociedade.
 
-Empatia, espirito colaborativo, resiliência, busca por estar sempre aprendendo e me desafiando são características que considero muito importantes. Meu principal objetivo é estar em um ambiente me desenvolvendo e solucionando problemas a cada dia.
-
 Certificado pelo curso de Desenvolvimento de Software FullStack da Cubos Academy, onde foram abordadas as tecnologias HTML, CSS, React Js, JavaScript, Node Js, PostgreSQL. E também, a metodologia ágil Scrum sendo aplicada.
+
+## Hello!
+
+My name is Rafael! Im Brazilian, passionate about sports and solving problems. I believe that technology is the main bridge to transform, improve and solve problems in people's lives and in society.
+
+Certified by the FullStack Software Development course at Cubos Academy, where the following technologies were learned: HTML, CSS, React Js, JavaScript, Node Js, PostgreSQL. And also, the Agile Scrum methodology being applied in the challenges.
 
 ### 💻 Hard Skills: 
 
@@ -18,7 +22,7 @@ Certificado pelo curso de Desenvolvimento de Software FullStack da Cubos Academy
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rmdeaguiar&layout=compact)](https://github.com/Rmdeaguiar/github-readme-stats)
 
-### 🧐 Para me encontrar:
+### 🧐 Para me encontrar / Find me:
 
 #### rafael.aguiar91@gmail.com
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-maguiar/)
