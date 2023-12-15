@@ -19,6 +19,8 @@ Certified by the FullStack Software Development course at Cubos Academy, where t
 ![NODEJS](https://img.shields.io/badge/Node.js-darkblue?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![SQL](https://img.shields.io/badge/PostgreSQL-darkblue?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-darkblue?style=for-the-badge&logo=typescript&logoColor=white)
+![CSHARP](https://img.shields.io/badge/Csharp-darkblue?style=for-the-badge&logo=csharp&logoColor=white)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rmdeaguiar&layout=compact)](https://github.com/Rmdeaguiar/github-readme-stats)
 
